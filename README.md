@@ -1,6 +1,6 @@
 # Azure-Blob
 
-## Create .env file 
+## Create a file called `.env` in the root of your repository
 ```
 CONNECTION_STRING=""
 ```
